@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://stylex.weapp.dev/zh/">中文文档</a> ·
-  <a href="https://stylex.weapp.dev/">English Docs</a> ·
+  <a href="https://stylex.weapp.dev/en/">English Docs</a> ·
   <a href="https://github.com/weapp-stylex/weapp-stylex">源码 / Source</a> ·
   <a href="https://www.npmjs.com/package/weapp-stylex">npm</a> ·
   <a href="https://github.com/weapp-stylex/weapp-stylex/issues">反馈 / Issues</a>
@@ -84,7 +84,7 @@ weapp-stylex compiles JavaScript / TypeScript styles to WeChat WXSS using the of
 
 Install `weapp-stylex`, then choose an adapter from the framework table above. The root entry exposes runtime APIs; explicit subpaths expose build integrations. For native WXML, bind `attrs()` through data. For Wevu / Vue, use `computed` with `:class` and `:style`. For Taro React, spread `props()` onto `View`.
 
-Read the [English documentation](https://stylex.weapp.dev/) for framework setup, shared styles and themes.
+Read the [English documentation](https://stylex.weapp.dev/en/) for framework setup, shared styles and themes.
 
 ## 项目与参与 / Projects & contributing
 
